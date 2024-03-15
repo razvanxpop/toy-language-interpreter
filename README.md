@@ -19,7 +19,7 @@ To get started with the Toy Language Interpreter, follow these steps:
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/toy-language-interpreter.git
+    git clone https://github.com/razvanxpop/toy-language-interpreter.git
     ```
 
 2. Open the project in your preferred Java IDE.
@@ -35,29 +35,6 @@ Once the application is running, you can use the GUI to select a program from th
 3. Click the "Run one step" button to execute one step of the program.
 4. Monitor the changes in the displayed information after each step of execution.
 
-## Documentation
-
-The Toy Language Interpreter project includes comprehensive documentation for reference and contribution. Here's a brief overview of the documentation files:
-
-- `README.md`: This file provides an overview of the project, features, usage instructions, and documentation details.
-- `Design_Documentation.md`: Detailed documentation covering the design principles, architecture, and implementation details of the interpreter.
-- `User_Guide.md`: User guide providing step-by-step instructions on using the GUI and executing programs.
-- `Developer_Guide.md`: Developer guide containing instructions for contributing to the project, setting up development environment, and guidelines for coding standards.
-
-For more detailed information, refer to the respective documentation files in the project repository.
-
-## Contributing
-
-Contributions to the Toy Language Interpreter project are welcome! To contribute, follow these steps:
-
-1. Fork the repository to your GitHub account.
-2. Create a new branch for your feature or bug fix.
-3. Make changes and commit them to your branch.
-4. Push your changes to your fork.
-5. Submit a pull request to the main repository.
-
-Please ensure that your code adheres to the project's coding standards and guidelines.
-
 ## License
 
-The Toy Language Interpreter project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+The Toy Language Interpreter project is licensed under the MIT License.
