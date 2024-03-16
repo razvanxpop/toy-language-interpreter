@@ -34,7 +34,3 @@ Once the application is running, you can use the GUI to select a program from th
 2. View the execution state in the Main Window, including PrgStates, HeapTable, Out, FileTable, SymTable, and ExeStack.
 3. Click the "Run one step" button to execute one step of the program.
 4. Monitor the changes in the displayed information after each step of execution.
-
-## License
-
-The Toy Language Interpreter project is licensed under the MIT License.
